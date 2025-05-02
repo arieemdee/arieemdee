@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello Word! I'm **Ariyanto** 👋
+- Skills: Mobile App, Flutter, Node.js, C++, VBA, VB.Net, C#, php, java, Kotlin
+
+ ```https://md-engine.com```
 
 <!--
 **arieemdee/arieemdee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
