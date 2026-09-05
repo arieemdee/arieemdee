@@ -56,7 +56,7 @@ GSM / SMS / WA  →  MD ENGINE GATEWAY  →  REST API LAYER  →  PROVIDER / BAN
 
 | Project | Stack | Description |
 |---|---|---|
-| [api-mdengine](https://github.com/arieemdee/api-mdengine) | VB.NET · Windows | Core software for running an electronic top-up (pulsa) reseller server — the engine behind MD Engine |
+| [API-MD ENGINE](https://github.com/arieemdee/api-mdengine) · [APK-V3](https://play.google.com/store/apps/details?id=com.mde.multi) | C# · VB.NET · Kotlin · Java · C++| Core software for running an electronic top-up (pulsa) reseller server — the engine behind MD Engine |
 | WhatsApp Gateway for Android | Kotlin | Gateway app for sending top-up confirmations and transaction alerts through WhatsApp API |
 | Real-Time Transaction Monitor | Node.js · WebSocket | Live monitoring system for tracking transaction status across the gateway as it happens |
 | API Debugging Toolset | Android · REST API | Tools for inspecting and debugging provider REST APIs (Digipos, Rita, Sidompul) during integration work |
