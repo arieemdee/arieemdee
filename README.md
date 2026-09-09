@@ -64,6 +64,8 @@ GSM / SMS / WA  →  MD ENGINE GATEWAY  →  REST API LAYER  →  PROVIDER / BAN
 | [MVVM](https://github.com/arieemdee/MVVM) | Kotlin | Reusable MVVM project template for Android Studio, used to bootstrap new apps faster |
 | [Distribusi Barang](https://github.com/arieemdee/distr) | Node.js | Aplikasi ini menggantikan sistem lama berbasis Clipper/DOS untuk bisnis distribusi barang |
 | [Tabungan Warga](https://github.com/arieemdee/tabungan-warga-r) | Node.js |  Aplikasi Tabungan & Arisan Warga => Beranda, Data Warga, Tabungan, Kas RT, Arisan (peserta/panggonan/periode/setoran/kocokan), Iuran Bulanan & Kematian, Gudang RT, Pengumuman |
+|[Pembukuan Harian](https://github.com/arieemdee/pembukuan-harian-r)| Node.js | Aplikasi Pembukuan Harian adalah aplikasi pencatatan keuangan sederhana berbasis web untuk mencatat pemasukan, pengeluaran, utang/piutang, transaksi rutin bulanan, hingga backup data — semuanya dijalankan secara lokal (offline) di komputer Anda. |
+|[Excel to DBF](https://github.com/arieemdee/ecxel2dbx-r)| Node.js | Aplikasi ini membantu Anda mengubah data dari file Excel/CSV menjadi: File DBF (untuk diimpor ke aplikasi Clipper) ,Tabel MySQL, File SQLite Tidak perlu kemampuan teknis khusus — cukup upload file, cek sebentar, lalu klik Convert. |
 ---
 
 ### 📬 Open for remote work
