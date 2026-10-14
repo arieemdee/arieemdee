@@ -28,7 +28,7 @@ GSM / SMS / WA  →  MD ENGINE GATEWAY  →  REST API LAYER  →  PROVIDER / BAN
 ### 🧰 Expertise
 
 **Languages**
-![C++](https://img.shields.io/badge/-C++-1B2430?style=flat-square) ![C#](https://img.shields.io/badge/-C%23-1B2430?style=flat-square) ![VB.NET](https://img.shields.io/badge/-VB.NET-1B2430?style=flat-square) ![PHP](https://img.shields.io/badge/-PHP-1B2430?style=flat-square) ![Java](https://img.shields.io/badge/-Java-1B2430?style=flat-square) ![Kotlin](https://img.shields.io/badge/-Kotlin-1B2430?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-1B2430?style=flat-square)
+![C++](https://img.shields.io/badge/-C++-1B2430?style=flat-square) ![C#](https://img.shields.io/badge/-C%23-1B2430?style=flat-square) ![VB.6](https://img.shields.io/badge/-VB.6-1B2430?style=flat-square)  ![VB.NET](https://img.shields.io/badge/-VB.NET-1B2430?style=flat-square) ![PHP](https://img.shields.io/badge/-PHP-1B2430?style=flat-square) ![Java](https://img.shields.io/badge/-Java-1B2430?style=flat-square) ![Kotlin](https://img.shields.io/badge/-Kotlin-1B2430?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-1B2430?style=flat-square)
 
 **Platforms & Tools**
 ![Node.js](https://img.shields.io/badge/-Node.js-1B2430?style=flat-square) ![Android Studio](https://img.shields.io/badge/-Android_Studio-1B2430?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-1B2430?style=flat-square) ![Firebase](https://img.shields.io/badge/-Firebase-1B2430?style=flat-square) ![Git](https://img.shields.io/badge/-Git-1B2430?style=flat-square) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-1B2430?style=flat-square) ![REST API](https://img.shields.io/badge/-REST_API-1B2430?style=flat-square)
