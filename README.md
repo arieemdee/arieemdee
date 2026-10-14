@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-online-4F8B87?style=flat-square" alt="status"/>
-  <img src="https://img.shields.io/badge/active_since-2009-D08A3E?style=flat-square" alt="active since 2009"/>
+  <img src="https://img.shields.io/badge/active_since-2007-D08A3E?style=flat-square" alt="active since 2007"/>
   <img src="https://img.shields.io/badge/location-Sukoharjo,_ID_(UTC+7)-2A323C?style=flat-square" alt="location"/>
   <img src="https://img.shields.io/badge/open_to-remote_work-D08A3E?style=flat-square" alt="open to remote work"/>
 </p>
@@ -41,9 +41,9 @@ GSM / SMS / WA  →  MD ENGINE GATEWAY  →  REST API LAYER  →  PROVIDER / BAN
 ### 💼 Experience
 
 **Founder & Developer — MD Engine**
-`2009 — Present`
+`2007 — Present`
 
-- Designed and built server software for electronic phone-credit (pulsa) top-ups, running continuously since 2009
+- Designed and built server software for electronic phone-credit (pulsa) top-ups, running continuously since 2007
 - Integrated multiple transaction protocols end-to-end: GSM, XMPP, and HTTP APIs
 - Provided direct technical support to hundreds of users on live production systems
 - Kept the platform operating and supported through shifting market and economic conditions
